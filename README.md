@@ -7,7 +7,7 @@
 - 🌴 Skilled in Java, Javascript
 - 🌱 Learning HTML, CSS, C#, C, C++
 
-I am a Software Engineer that is looking to fill a specific, but necessary, niche in the software industry.
+I am a prospective Software Engineer that is looking to fill a specific, but necessary, niche in the software industry.
 
 I intend to specialize in both Guided User Interface (GUI) and Guided User Experience (GUX) development. To this end, I have studied Java, Javascript, and am currently learning C, C++ and C# to be able to build GUI applications at the OS level. I have an interest in GUI and GUX, no matter the background, so I have plans to learn HTML and CSS to learn how to develop GUI applications at the web level.
 
