@@ -25,4 +25,4 @@ Thank you for your time and consideration.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diego-ruben-cruz&show_icons=true&theme=onedark&locale=en" alt="Diego Cruz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diego-ruben-cruz&theme=dark" alt="Diego Cruz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diego-ruben-cruz&theme=onedark" alt="Diego Cruz" /></p>
