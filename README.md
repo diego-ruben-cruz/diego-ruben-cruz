@@ -19,7 +19,7 @@ You can reach out to me using diego.rubencruz@gmail.com or diego.cruz@sjsu.edu
 
 Thank you for your time and consideration.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diego-ruben-cruz" alt="Diego Cruz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diego-ruben-cruz&theme=onedark" alt="Diego Cruz" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-ruben-cruz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Diego Cruz" /></p>
 
