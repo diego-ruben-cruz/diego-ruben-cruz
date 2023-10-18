@@ -1,10 +1,10 @@
 <h1 align="center">Greetings 👋 I am Diego R Cruz</h1>
 
-<h3 align="center">An SWE Undergrad focused on UI/UX/HCI</h3>
+<h3 align="center">A SWE Undergrad focused on UI/UX/HCI</h3>
 
 - :palm_tree: Proficient in Java, Javascript, SQL
 - :potted_plant: Working knowledge in Python, HTML, CSS, C, x8086 Assembly
-- :bamboo: Learning C++, C#
+- 🎍 Learning C++, C#
 
 I am an SJSU Software Engineering undergrad that is looking to fill a specific, but necessary, niche in the software industry.
 
