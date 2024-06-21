@@ -15,7 +15,7 @@ I have studied Java, Javascript, and am currently learning C, C++ and C# to be a
 Outside of software, one of my passions is making 90s Hard Dance music, and I have developed skills in recording, mixing, and mastering audio because of this. In the way of making music as a hobby, I have also picked up some experience in editing videos and creating thumbnails, visualizers, and other media associated with promoting music.
 
 With that being said, what can I do for you, or your team?
-You can reach out to me using diego.rubencruz@gmail.com or diego.cruz@sjsu.edu
+You can reach out to me using diego.rubencruz@gmail.com
 
 Thank you for your time and consideration.
 
